@@ -1,4 +1,2 @@
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nisarg0016&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nisarg0016&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nisarg0016&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Hi
+I'm Nisarg Desai, a student studying CSE who is interested in computers.
